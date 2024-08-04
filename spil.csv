@@ -1,0 +1,71 @@
+# Start-felt ;baggrundsfarve ;tekst_farve     ;
+Start-felt   ;green          ;yellow          ;           ;
+# titel      ;billede_fil    ;billede_retning ;felt_farve ;tekst
+             ;billede.jpg         ;lodret          ;           ;tekst tekst tekst eksempel tekst
+Titel ZONE   ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;lodret          ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;lodret          ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;lodret          ;yellow     ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;red        ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;                    ;                ;green      ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;orange     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;         ;                ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
+TITEL ZONEN  ;billede.jpg         ;lodret          ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;red        ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
+TITEL ZONEN  ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;lodret          ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;grey       ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;orange     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;lodret          ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;red        ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;        ;                ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;red        ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;grey       ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;red        ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;lodret          ;           ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;lodret          ;           ;tekst tekst tekst eksempel tekst
+TITEL        ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
+TITEL        ;         ;                ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+             ;billede.jpg         ;vandret         ;yellow     ;tekst tekst tekst eksempel tekst
+TITEL        ;         ;                ;green      ;tekst tekst tekst eksempel tekst
+VINDER       ;billede.jpg         ;vandret         ;green      ;tekst tekst tekst eksempel tekst
