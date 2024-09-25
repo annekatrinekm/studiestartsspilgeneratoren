@@ -71,7 +71,7 @@ else:
     tomme_felter = antal_spilfelter - len(spil_data['titel'])
     while i < tomme_felter:
         spil_data['titel'].append('')
-        spil_data['tekst'].append(f'placeholder{i+len(spil_data['titel'])}')
+        spil_data['tekst'].append(f"placeholder{i+len(spil_data['titel'])}")
         spil_data['billeder'].append('')
         spil_data['billede_retning'].append('')
         spil_data['farver'].append('white')
@@ -356,4 +356,4 @@ spillet.paste(center_img_sized,(int(50+thick_line_dim*2+thin_line_dim*3+felt_dim
 spillet_gen.line([(50+thick_line_dim+felt_dims_width,img_size[1]-50),(50+thick_line_dim+felt_dims_width,50+thick_line_dim+felt_dims_height),(img_size[0]-50-thick_line_dim*2-felt_dims_width,50+thick_line_dim+felt_dims_height),(img_size[0]-50-thick_line_dim*2-felt_dims_width,img_size[1]-50-thick_line_dim-felt_dims_height),(50+thick_line_dim*2+felt_dims_width*2,img_size[1]-50-thick_line_dim-felt_dims_height),(50+thick_line_dim*2+felt_dims_width*2,50+thick_line_dim*2+felt_dims_height*2),(img_size[0]-50-thick_line_dim*2-felt_dims_width*2,50+thick_line_dim*2+felt_dims_height*2),(img_size[0]-50-thick_line_dim*2-felt_dims_width*2,img_size[1]-50-thick_line_dim*2-felt_dims_height*2),(50+thick_line_dim*2+felt_dims_width*3,img_size[1]-50-thick_line_dim*2-felt_dims_height*2)],fill='black',width=thick_line_dim+15) 
 
 # Gem spillet som JPG-fil med det indtastede navn
-spillet.save(f'exports/{spil_navn}.png',dpi=(300,300))
+spillet.save(f'{spil_navn}.png',dpi=(300,300))
